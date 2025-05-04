@@ -1,12 +1,10 @@
 # Semiconductor Packaging Simulation Labs
 
-This repository provides ANSYS Electronics Desktop project files and documentation for semiconductor packaging labs. It is intended for academic or professional use in understanding and simulating thermal and mechanical aspects of advanced packaging technologies.
+This repository contains simulation files and documentation for semiconductor packaging labs using ANSYS tools.
 
-## 📘 Overview
+## Labs Overview
 
-The repository includes two simulation labs:
-
-### 🔬 Lab 01: Thermal Analysis of Flip-Chip BGA
+### Lab 01: Thermal Analysis of Flip-Chip BGA
 
 Focuses on thermal performance evaluation of a flip-chip Ball Grid Array (BGA) package.
 
@@ -18,7 +16,7 @@ Focuses on thermal performance evaluation of a flip-chip Ball Grid Array (BGA) p
 * Executed simulation under defined loading conditions
 * Created temperature distribution plots for analysis
 
-### 🧩 Lab 02: Package Design and Modeling
+###  Lab 02: Package Design and Modeling
 
 Covers the step-by-step physical modeling of a semiconductor package.
 
@@ -30,7 +28,7 @@ Covers the step-by-step physical modeling of a semiconductor package.
 * Applied molding compound to encapsulate the package
 * Assigned accurate material properties
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 semiconductor-packaging/
@@ -42,22 +40,14 @@ semiconductor-packaging/
 └── LICENSE                               # License information
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
-To run and explore the simulations:
+To view and interact with the simulation files:
+1. Open the .aedt files using ANSYS Electronics Desktop.
+2. Navigate through the project tree to explore different components and results.
 
-1. Launch **ANSYS Electronics Desktop** (version 202x or later recommended).
-2. Open the corresponding `.aedt` file from the lab you wish to explore.
-3. Use the **Project Manager** to view model geometry, setup, and results.
-4. Modify or run new simulations as needed for exploration or research.
 
-## 🛠️ Requirements
-
-* [ANSYS Electronics Desktop](https://www.ansys.com/products/electronics)
-* Basic understanding of semiconductor packaging principles
-* Familiarity with thermal and structural simulation concepts (recommended)
-
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the contents in compliance with the license terms.
 
